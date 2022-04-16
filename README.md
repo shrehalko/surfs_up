@@ -18,7 +18,7 @@ Weather Analysis of data stored in SQLite database, using SQLAlchemy query tool.
 ### <a name="Background"></a>Background
 We are planning to open a **'Surf n Shake'** shop in **Oahu, Hawaii**, serving surf boards and icecreams to locals and tourists. In order to invest in this project we need some real investor backing to get this off the ground. We need to analyze weather conditions of this island from 9 weather stations so that the weather is in our favor for most of the months. If the weather conditions are met then our plan is to expand to other Hawaiin islands.  
 
-<p align="center"> <img src = "Images/surf.png" width ="80%"> </p>
+<p align="center"> <img src = "Images/surf.png" width ="30%"> </p>
 
 ### <a name="Purpose"></a>Purpose
 
@@ -35,7 +35,7 @@ The temperature analysis is based on the weather data collected from nine differ
 
 Below is the snapshot of the Summary Statistics for the months June and December.
 
-<p align="center"> <img src = "Images/june_stats.png" width ="40%"> </p> <p align="center"> <img src = "Images/dec_stats.png" width ="40%"> </p>
+<p align="center"> <img src = "Images/June_stats.png" width ="20%">  <img src = "Images/dec_stats.png" width ="20%" height ="0%"> </p>
 
 
 We can conclude the following:
@@ -51,7 +51,7 @@ In this analysis we are analyzing the temperature summary statistics for all the
 
 Below is the snapshot of the Summary Statistics for each station for months June and December.
 
-<p align="left"> <img src = "Images/June_temp_station.png" width ="30%"> </p> <p align="left"> <img src = "Images/dec_temp_station.png" width ="30%"> </p>
+<p align="center"> <img src = "Images/June_temp_station.png" width = "45%">  <img src = "Images/dec_temp_station.png" width ="45%"> </p>
 
 We can conclude the following:
 
@@ -66,7 +66,7 @@ The precipitaion analysis is based on the weather data collected from nine diffe
 
 Below is the snapshot of the Summary Statistics for the months June and December.
 
-<p align="center"> <img src = "Images/june_rain.png" width ="40%"> </p> <p align="center"> <img src = "Images/dec_rain.png" width ="40%"> </p>
+<p align="center"> <img src = "Images/june_rain.png" width ="20%"> <img src = "Images/dec_rain.png" width ="20%"> </p>
 
 We can conclude the following:
 1. The number of data points available for analysis for the month of **December (1405)** are less as compared to that for the month of **June (1574)**.
@@ -82,7 +82,7 @@ In this analysis we are analyzing the precipitatiom summary statistics for all t
 
 Below is the snapshot of the Summary Statistics for the months June and December for all stations.
 
-<p align="left"> <img src = "Images/June_rain_station.png" width ="30%"> </p> <p align="left"> <img src = "Images/dec_rain_station.png" width ="30%"> </p>
+<p align="center"> <img src = "Images/June_rain_station.png" width ="45%">  <img src = "Images/dec_rain_station.png" width ="45%"> </p>
 
 We can conclude the following:
 
