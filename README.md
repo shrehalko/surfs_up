@@ -35,7 +35,7 @@ The temperature analysis is based on the weather data collected from nine differ
 
 Below is the snapshot of the Summary Statistics for the months June and December.
 
-<p align="center"> <img src = "Images/June_stats.png" width ="20%">  <img src = "Images/dec_stats.png" width ="20%" height ="0%"> </p>
+<p align="center"> <img src = "Images/June_stats.png" width ="20%" height = "80%" >  <img src = "Images/dec_stats.png" width ="20%" height ="80%"> </p>
 
 
 We can conclude the following:
