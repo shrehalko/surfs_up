@@ -35,7 +35,7 @@ The temperature analysis is based on the weather data collected from nine differ
 
 Below is the snapshot of the Summary Statistics for the months June and December.
 
-<p align="center"> <img src = "Images/June_stats.png" width ="20%" height = "80%" >  <img src = "Images/dec_stats.png" width ="20%" height ="80%"> </p>
+<p align="center"> <img src = "Images/June_stats.png" width ="20%" height = "80%" >  <img src = "Images/dec_stats.png" width ="23.9%" > </p>
 
 
 We can conclude the following:
@@ -51,7 +51,7 @@ In this analysis we are analyzing the temperature summary statistics for all the
 
 Below is the snapshot of the Summary Statistics for each station for months June and December.
 
-<p align="center"> <img src = "Images/June_temp_station.png" width = "45%">  <img src = "Images/dec_temp_station.png" width ="45%"> </p>
+<p align="center"> <img src = "Images/June_temp_station.png" width = "45%">  <img src = "Images/dec_temp_station.png" width ="44.3%"> </p>
 
 We can conclude the following:
 
@@ -66,7 +66,7 @@ The precipitaion analysis is based on the weather data collected from nine diffe
 
 Below is the snapshot of the Summary Statistics for the months June and December.
 
-<p align="center"> <img src = "Images/june_rain.png" width ="20%"> <img src = "Images/dec_rain.png" width ="20%"> </p>
+<p align="center"> <img src = "Images/june_rain.png" width ="20%"> <img src = "Images/dec_rain.png" width ="22.5%"> </p>
 
 We can conclude the following:
 1. The number of data points available for analysis for the month of **December (1405)** are less as compared to that for the month of **June (1574)**.
@@ -82,7 +82,7 @@ In this analysis we are analyzing the precipitatiom summary statistics for all t
 
 Below is the snapshot of the Summary Statistics for the months June and December for all stations.
 
-<p align="center"> <img src = "Images/June_rain_station.png" width ="45%">  <img src = "Images/dec_rain_station.png" width ="45%"> </p>
+<p align="center"> <img src = "Images/June_rain_station.png" width ="45%">  <img src = "Images/dec_rain_station.png" width ="43.4%"> </p>
 
 We can conclude the following:
 
